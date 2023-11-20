@@ -1,16 +1,32 @@
-public class uniqueElement {
-    public static void main(String args[]){
-        String str="hariharan";
-        char ch[]=str.toCharArray();
-        for(int i=0;i<str.length();i++){
-            for(int j=i+1;j<str.length();j++)
+import java.util.Scanner;
+public class KeySearch {
+    public static void main(String args[])
+    {
+        Scanner sc=new Scanner(System.in);
+        int ArraySize=sc.nextInt();
+         System.out.println("Enter the array elements");
+       int LengthofArray=sc.nextInt();
+       
+        int array[]=new int[ArraySize];
+        for(int m=0;m<LengthofArray;m++)
+        {
+            array[m]=sc.nextInt();
+        }
+        
+        System.out.println("Enter the Key element to search");
+        int key=sc.nextInt();
+        for(int j=0;j<array.length;j++){
+        for(int i=j+1;i<array.length;i++){
+            
+            if(array[i]==key)
             {
-                if (ch[i]==ch[j])
-                        {
-                            System.out.println(ch[i]);
-                        }
+                System.out.println("present");
+                
             }
+            break;
+            
+        }
         }
     
     }
-}
+    

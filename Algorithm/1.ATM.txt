@@ -1,0 +1,8 @@
+Start
+Please Enter you Pin Respectively 
+Displaying Withdraw,Desposit,Checkbalance
+if any one of the above is clicked then its going to respectively pages and perform functionality
+if not so redirect to home page.
+if withdraw is clicked amount debited.
+Again is started from first onwards.
+End

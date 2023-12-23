@@ -9,7 +9,7 @@ public class Calucator {
         char ch=sc.next().charAt(0);
         switch(ch)
                 {
-            case '+':
+            case '+': // "String " || 20
             {
                     int c=a+b;
                     System.out.print("Addition of two numbers "+(a)+" + "+(b)+" = "+c);

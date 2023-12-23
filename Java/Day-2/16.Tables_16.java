@@ -5,7 +5,7 @@ public class OddSums {
         int number=sc.nextInt();
         int sum=0;
         for(int i=1;i<=2*number;i+=2)
-        if((i%2)!=0)
+        if((i&2)!=0) //Bitwise operater
         {
              sum+=i;
              System.out.println(sum);

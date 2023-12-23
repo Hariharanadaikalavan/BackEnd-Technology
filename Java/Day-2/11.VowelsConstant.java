@@ -9,7 +9,7 @@ public class VowelsConstant {
              
              if(Characters=='a'|| Characters=='e'|| Characters=='i' || Characters=='o' || Characters=='u' || Characters=='A'||Characters=='E'||Characters=='I'||Characters=='O'||Characters=='U');
              {
-                 ++vowels;
+                 ++vowels;  //Counter
              }
              System.out.println(i);
         }

@@ -13,7 +13,7 @@ public class FibonacciSeries {
    
      
     }
-   System.out.println("sum "+sum);
+   System.out.println("sum of Fibonacci "+sum);
     }
 
     }

@@ -21,7 +21,7 @@ int count=0,j;
          }
        
         
-          count=0;
+          count=0;  //Counter is set to Zero
 
 }
           

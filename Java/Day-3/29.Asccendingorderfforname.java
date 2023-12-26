@@ -5,7 +5,7 @@ public class Asccendingorderfforname {
         System.out.println("Enter you name:");
         //String str=sc.nextLine();
         int i,j;
-        char ch[]=str.toCharArray();
+        char ch[]=str.toCharArray();  // Convert the array into characters 
         System.out.println("If you want to sort in Ascending type\"<\" otherwise type\"<\"");
         String sw=sc.next();
         

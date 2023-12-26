@@ -20,7 +20,7 @@ public class Asccendingorderfforname {
                         }
                     }
                 }
-                for (int k = 0; k < ch.length; k++) {
+                for (int k = 0; k < ch.length; k++) {  //This loop is responsible for printing the sorted values 
                     System.out.print(ch[k] + "->");
                 }
                 break;

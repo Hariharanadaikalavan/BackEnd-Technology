@@ -13,7 +13,7 @@ class pet{
     }
     public class SuperKeyWord_35 {
     public static void main(String args[]){
-        new SuperKeyWord_35();
+        new SuperKeyWord_35();   //Super Keyword is used to reference the base of inheritence
         dog obj2=new dog();
         
         obj2.brag();   

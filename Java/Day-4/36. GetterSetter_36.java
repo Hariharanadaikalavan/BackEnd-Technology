@@ -70,7 +70,7 @@ class Store {
 public class GetterSetter_36 {
     public static void main(String[] args) {
        
-        Person person = new Person("Dharma", 30);
+        Person person = new Person("Dharma", 30);  //Creating objects
         System.out.println(person.getName() + " " + person.getAge());
 
         Teacher teacher = new Teacher("Dhana", 32, "PhD");

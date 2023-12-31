@@ -8,8 +8,9 @@ public class Asciivalue_7 {
        // char character=sc.next().charAt(0);
        //int AsciiValue=character;
      
-       char Start=sc.next().charAt(0);
+       
          System.out.println("Please Enter the english alphabetic for know the equal ASCII Values  Ending Respectively");
+        char Start=sc.next().charAt(0);
        char upto=sc.next().charAt(0);
        
        for(int i=Start;i<=upto;i++){

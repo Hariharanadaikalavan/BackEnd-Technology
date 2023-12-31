@@ -11,7 +11,7 @@ public class PrimeNumber_10 {
             }
             
         }
-        if(count==2){
+        if(count==2){  // Satisfied the condition 
             System.out.println("PrimeNumber");
         }
         else{

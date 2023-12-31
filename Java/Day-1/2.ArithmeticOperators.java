@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // By using Arithmetic operations 
 public class ArithmeticOperators_2 {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);

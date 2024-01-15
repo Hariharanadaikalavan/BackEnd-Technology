@@ -8,7 +8,7 @@ public class Swapping_5 {
         int SecondNumber=sc.nextInt();
         System.out.println("Before Swapping FirstNumber is = "+FirstNumber);
         System.out.println("Before Swapping Second Number is = "+SecondNumber);
-        
+           
         FirstNumber=FirstNumber+SecondNumber;
         SecondNumber=FirstNumber-SecondNumber;
         FirstNumber=FirstNumber-SecondNumber;

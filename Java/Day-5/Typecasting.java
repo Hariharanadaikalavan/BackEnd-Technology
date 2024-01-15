@@ -4,4 +4,4 @@ Long value=20l;
 int values=(int) value;
 System.out.println(value);
 }
-}
+}  

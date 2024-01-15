@@ -1,4 +1,4 @@
-public class Anagram {                                     
+public class Anagram {                                       
     public static void main(String args[]){
          String str1="hariharan";
        String str2="harharian";

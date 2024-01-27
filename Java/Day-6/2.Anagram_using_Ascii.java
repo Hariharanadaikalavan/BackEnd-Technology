@@ -3,7 +3,7 @@ public class Anagram {
          String str1="hariharan";
        String str2="harharian";
        int sum=0,sums=0;
-       
+         
        
         for(int i=0;i<str1.length();i++)
         {

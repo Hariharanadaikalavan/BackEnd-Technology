@@ -1,4 +1,4 @@
-class A {
+class A {  
      public static void firstmethod(){
          System.out.print("first method invoked");
      }

@@ -5,7 +5,7 @@ class A {
      A(){
          System.out.println("Dummy one Default Constructor");
      }
- }
+ }  
 
 class B extends A{
    

@@ -1,7 +1,7 @@
 class pet{
          void brag(){
             System.out.println("I have a best pet!!!");
-        }
+        }  
     }
     
   class dog extends pet{
